@@ -202,7 +202,7 @@ button {
 
 
 
-@media screen and (max-width:1080px) {
+@media screen and (max-width:1025px) {
 
     .hero {
         flex-wrap: wrap;
@@ -217,7 +217,7 @@ button {
     }
 
     .information .card {
-        max-width: 35%;
+        max-width: 30%;
     }
 
     .action {
